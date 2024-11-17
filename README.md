@@ -1,3 +1,5 @@
+<body bgcolor="white">
+
 <h2 align="left">Hi 👋! My name is Izzat Baloghlanov and I'm a Front-End Developer</h2>
 
 ###
@@ -49,3 +51,4 @@
 <!-- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="" /> -->
 
 ###
+</body>
